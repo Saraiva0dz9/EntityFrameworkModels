@@ -1,0 +1,64 @@
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe.config
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.exe
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.AssemblyReference.cache
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.exe
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe.config
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Remotion.Linq.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Collections.Immutable.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Interactive.Async.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Remotion.Linq.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Collections.Immutable.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Interactive.Async.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.CopyComplete
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Dev\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Text.Encodings.Web.xml
